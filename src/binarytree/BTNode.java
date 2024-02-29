@@ -1,6 +1,6 @@
 /*
  * BTNode.java
- *
+ *comment
  */
 package binarytree;
 
